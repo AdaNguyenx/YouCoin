@@ -1,3 +1,3 @@
 # YouCoin
 
-Project Site: http://linhchinguyen.me/YouCoin/ 
+Project Site: https://hp-youcoin.herokuapp.com/
